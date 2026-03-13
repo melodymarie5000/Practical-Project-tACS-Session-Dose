@@ -13,4 +13,9 @@ You can download the full data extraction table here: [Download the table](tACS_
 ## Bias Assessment
 After completing data extraction, a risk of bias assessment was conducted for each included study. The Cochrane ROB-2 tool was used, which employs structured signalling questions to evaluate potential sources of bias across several domains, including the randomization process, deviations from intended interventions, missing outcome data, measurement of outcomes, and selection of reported results. Assessments were performed separately according to study design, distinguishing between between-subject and within-subject studies, to ensure that each study was evaluated appropriately based on its methodological framework. 
 
+- Within-subjects studies: [Download the table](ROB2_crossover.xlsm).
+- Between-subjects studies: [Download the table](ROB2_parallel.xlsm).
+
+Overall, the bias assessment indicated low risk for most of our studies. Although 1 or 2 studies showed a moderate risk in at least one domain, there was no one study with a high risk of bias. 
+
 
