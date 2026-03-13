@@ -1,1 +1,3 @@
 # Data Extraction & Synthesis
+
+Once the relevant literature was collected, the next step involved data extraction and synthesis. Data extraction was performed narratively, meaning that the reviewer carefully read each article to identify and record relevant information. Key details, including study design, population characteristics, interventions or exposures, outcomes, and main findings, were systematically collected in a dedicated Excel spreadsheet to ensure organization and consistency. Following extraction, the data were synthesized qualitatively, allowing patterns, trends, and gaps in the literature to be identified and summarized for subsequent analysis.
